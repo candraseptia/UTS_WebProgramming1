@@ -5,18 +5,18 @@ Aplikasi Data Mahasiswa adalah aplikasi web untuk mengelola data mahasiswa. Pada
 # Basis Data
 
 Basis data yang digunakan adalah MySQL.
-Server    = localhost
-Username  = root
-Password  = 
-Database  = uts_webprog1
-TableName = data_mahasiswa
+1. Server    = localhost
+2. Username  = root
+3. Password  = 
+4. Database  = uts_webprog1
+5. TableName = data_mahasiswa
 
 # Struktur Basis Data
 
-Nama        Type
-nim         varchar(9)
-nama        varchar(35)
-jurusan     varchar(50)
+   Nama        Type
+1. nim         varchar(9)
+2. nama        varchar(35)
+3. jurusan     varchar(50)
 
 # Software yang Dibutuhkan
 
@@ -38,7 +38,7 @@ Jika tidak ada data yang disimpan, maka table data mahasiswa akan muncul pesan d
 
 # Dibuat oleh
 
-Nama    : Maulana Abdul Siddiq
-NIM     : 16090112
-Kelas   : 4C
-Teknik Informatika
+1. Nama    : Maulana Abdul Siddiq
+2. NIM     : 16090112
+3. Kelas   : 4C
+4. Teknik Informatika
