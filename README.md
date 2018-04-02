@@ -35,3 +35,10 @@ Jika ingin merubah data, klik button ubah pada baris data yang akan dirubah. Pad
 Jika ingin menghapus data, klik button hapus pada baris data yang akan dihapus.
 
 Jika tidak ada data yang disimpan, maka table data mahasiswa akan muncul pesan data nihil.
+
+# Dibuat oleh
+
+Nama    : Maulana Abdul Siddiq
+NIM     : 16090112
+Kelas   : 4C
+Teknik Informatika
